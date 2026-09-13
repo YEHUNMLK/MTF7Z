@@ -45,14 +45,11 @@ Make sure that `7z` or `7zz` is available in your system `PATH`, or configure th
 
 ## Installation
 
-### From source
+Before running the program, make sure **7-Zip** and **Python (>= 3.10)** are installed.
 
-Clone the repository:
+* [7-Zip](https://www.7-zip.org/)
+* [Python](https://www.python.org/)
 
-```bash
-git clone https://github.com/YEHUNMLK/MTF7Z.git
-cd MTF7Z
-```
 
 Install the Python dependencies:
 
@@ -60,9 +57,10 @@ Install the Python dependencies:
 pip install "PySide6>=6.11.2"
 ```
 
-Run the application:
+Download the repository to a local directory, such as `MTF7Z`, then run the application:
 
 ```bash
+cd MTF7Z
 python main.py
 ```
 
