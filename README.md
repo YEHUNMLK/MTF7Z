@@ -172,3 +172,7 @@ Thanks to the developers and contributors of:
 - 7-Zip
 - Python
 - PySide6 / Qt
+
+## License
+
+MTF7Z is licensed under the MIT License.
