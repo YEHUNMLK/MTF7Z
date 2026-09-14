@@ -165,8 +165,6 @@ Direct extraction of directories is currently not supported.
 
 ## Acknowledgements
 
-MTF7Z uses [7-Zip](https://www.7-zip.org/) for archive operations.
-
 Thanks to the developers and contributors of:
 
 - 7-Zip
